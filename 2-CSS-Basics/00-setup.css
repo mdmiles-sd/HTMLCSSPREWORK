@@ -1,0 +1,7 @@
+body {
+    background-color: #428800;
+}
+.wrapper {
+    border: 10px solid rgb(25, 0, 255);
+}
+/*This a CSS comment*/ body { background-color: #D3D3D3; } /*This is another CSS comment*/ .wrapper { border: 10px solid red;}
